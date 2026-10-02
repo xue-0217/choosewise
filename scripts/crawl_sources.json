@@ -1,0 +1,16 @@
+{
+  "sources": [
+    {
+      "url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+      "purpose": "keyboard_sample"
+    },
+    {
+      "url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+      "purpose": "mouse_sample"
+    },
+    {
+      "url": "https://www.logitech.com/zh-cn/shop/p/pebble-2-m350s-wireless-mouse",
+      "purpose": "known_404_negative_test"
+    }
+  ]
+}

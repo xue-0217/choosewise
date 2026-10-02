@@ -1,0 +1,219 @@
+{
+  "schema_version": "real-candidate-v0.1",
+  "status": "pending_review",
+  "products": [
+    {
+      "id": "logitech-cn-920-011731",
+      "mode": "real_candidate",
+      "review_status": "pending",
+      "recommendation_eligible": false,
+      "brand": "Logitech",
+      "name": "Pebble Keys 2 K380s",
+      "variant_name": "Pebble Keys 2 K380s - 白色 - 美国英语（QWERTY）",
+      "sku": "920-011731",
+      "category": "keyboard",
+      "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+      "retrieved_at": "2026-10-02T15:12:35.895405+00:00",
+      "source_locale": "zh-cn",
+      "page_sha256": "7cddc3832e72207868e71658ed124ec8b94c615ac9c6e4a80e3bfd232b0386a4",
+      "dimensions_mm": {
+        "height": "124",
+        "width": "279",
+        "depth": "16"
+      },
+      "weight_g": "415",
+      "connections_supported": [
+        "bluetooth",
+        "receiver"
+      ],
+      "receiver_in_box": null,
+      "numpad": false,
+      "quiet": null,
+      "price_minor": null,
+      "currency": "CNY",
+      "price_status": "invalid_placeholder",
+      "observed_price": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "CNY",
+        "lowPrice": 0,
+        "highPrice": 0,
+        "price": null,
+        "availability": "https://schema.org/InStock"
+      },
+      "claims": [
+        {
+          "field": "dimensions_mm.height",
+          "value": "124",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "高: 124 毫米",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "dimensions_mm.width",
+          "value": "279",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "宽: 279 毫米",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "dimensions_mm.depth",
+          "value": "16",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "深: 16 毫米",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "weight_g",
+          "value": "415",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "重量: 415 克",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "connections_supported",
+          "value": "bluetooth",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "inRiverTechSpecs.connectivity",
+          "excerpt": "连接类型: 蓝牙低功耗技术",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "connections_supported",
+          "value": "receiver",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "inRiverTechSpecs.connectivity",
+          "excerpt": "兼容 Logi Bolt USB 接收器（需另购）",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "numpad",
+          "value": false,
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+          "locator": "FAQPage:numpad",
+          "excerpt": "没有，它采用高度紧凑的极简布局，未配备专用标准数字小键盘，以节省桌面空间。",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        }
+      ],
+      "issues": [
+        "HUMAN_REVIEW_REQUIRED",
+        "QUIET_NOT_VERIFIED",
+        "WEIGHT_BATTERY_SCOPE_REQUIRES_REVIEW",
+        "NO_USABLE_VARIANT_PRICE"
+      ]
+    },
+    {
+      "id": "logitech-cn-910-007124",
+      "mode": "real_candidate",
+      "review_status": "pending",
+      "recommendation_eligible": false,
+      "brand": "Logitech",
+      "name": "M240 轻音蓝牙鼠标",
+      "variant_name": "M240 轻音蓝牙鼠标 - 玫瑰粉",
+      "sku": "910-007124",
+      "category": "mouse",
+      "source_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+      "retrieved_at": "2026-10-02T15:12:37.777482+00:00",
+      "source_locale": "zh-cn",
+      "page_sha256": "58def12d9642400824222198e86be499408eb0a31abaf381e84b4d72efb44fc7",
+      "dimensions_mm": {
+        "height": "99",
+        "width": "60",
+        "depth": "39"
+      },
+      "weight_g": "73.8",
+      "connections_supported": [
+        "bluetooth"
+      ],
+      "receiver_in_box": null,
+      "numpad": null,
+      "quiet": null,
+      "price_minor": null,
+      "currency": "CNY",
+      "price_status": "invalid_placeholder",
+      "observed_price": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "CNY",
+        "lowPrice": 0,
+        "highPrice": 0,
+        "price": null,
+        "availability": "https://schema.org/InStock"
+      },
+      "claims": [
+        {
+          "field": "dimensions_mm.height",
+          "value": "99",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "高: 99 毫米",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "dimensions_mm.width",
+          "value": "60",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "宽: 60 毫米",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "dimensions_mm.depth",
+          "value": "39",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "深: 39 毫米",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "weight_g",
+          "value": "73.8",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+          "locator": "specsAndRequirements.productDimensions",
+          "excerpt": "重量: 73.8 克",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        },
+        {
+          "field": "connections_supported",
+          "value": "bluetooth",
+          "source_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+          "locator": "inRiverTechSpecs.connectivity",
+          "excerpt": "连接类型: 蓝牙低功耗技术",
+          "evidence_type": "manufacturer_spec",
+          "scope": "product_family",
+          "review_status": "pending"
+        }
+      ],
+      "issues": [
+        "HUMAN_REVIEW_REQUIRED",
+        "QUIET_NOT_VERIFIED",
+        "WEIGHT_BATTERY_SCOPE_REQUIRES_REVIEW",
+        "NO_USABLE_VARIANT_PRICE"
+      ]
+    }
+  ]
+}

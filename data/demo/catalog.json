@@ -1,0 +1,18 @@
+{
+  "mode": "demo",
+  "notice": "所有型号、参数、价格与体验结论均为模拟数据，仅用于验证推荐流程，不作为实际购买建议。",
+  "products": [
+    {"id":"demo-k68","category":"keyboard","name":"K68 轻巧键盘","version":"68 键 · 静音轴","price_minor":18900,"connections":["wired","bluetooth","receiver"],"weight_g":620,"layout":"68 键","numpad":false,"quiet":true,"portable":true,"gaming":false,"color":"sage","note":"体积更小；没有独立数字区。"},
+    {"id":"demo-k75","category":"keyboard","name":"K75 日常机械键盘","version":"75% 配列 · 静音轴","price_minor":27900,"connections":["wired","bluetooth","receiver"],"weight_g":790,"layout":"75% 配列","numpad":false,"quiet":true,"portable":false,"gaming":true,"color":"cream","note":"保留方向键；不含独立数字区。"},
+    {"id":"demo-k98","category":"keyboard","name":"K98 数字区键盘","version":"98 键 · 静音轴","price_minor":32900,"connections":["wired","bluetooth","receiver"],"weight_g":960,"layout":"98 键","numpad":true,"quiet":true,"portable":false,"gaming":false,"color":"stone","note":"方便数字输入；更占桌面空间。"},
+    {"id":"demo-k87","category":"keyboard","name":"K87 游戏键盘","version":"87 键 · 线性轴","price_minor":22900,"connections":["wired","receiver"],"weight_g":810,"layout":"87 键","numpad":false,"quiet":false,"portable":false,"gaming":true,"color":"ink","note":"支持接收器连接；不支持蓝牙。"},
+    {"id":"demo-k104","category":"keyboard","name":"K104 办公键盘","version":"全尺寸 · 薄膜","price_minor":12900,"connections":["wired"],"weight_g":730,"layout":"104 键","numpad":true,"quiet":true,"portable":false,"gaming":false,"color":"stone","note":"价格更低；需要有线连接。"},
+    {"id":"demo-k84","category":"keyboard","name":"K84 低矮键盘","version":"84 键 · 低矮轴","price_minor":39900,"connections":["wired","bluetooth"],"weight_g":480,"layout":"84 键","numpad":false,"quiet":null,"portable":true,"gaming":false,"color":"cream","note":"更薄、更轻；没有噪声资料。"},
+    {"id":"demo-m1","category":"mouse","name":"M1 轻声鼠标","version":"无线 · 轻声按键","price_minor":9900,"connections":["bluetooth","receiver"],"weight_g":78,"layout":"中小尺寸","numpad":null,"quiet":true,"portable":true,"gaming":false,"color":"sage","note":"便于随身携带；侧键功能较少。"},
+    {"id":"demo-m2","category":"mouse","name":"M2 办公鼠标","version":"无线 · 双侧键","price_minor":15900,"connections":["bluetooth","receiver"],"weight_g":98,"layout":"中等尺寸","numpad":null,"quiet":true,"portable":false,"gaming":false,"color":"cream","note":"具有侧键；重量相对较高。"},
+    {"id":"demo-m3","category":"mouse","name":"M3 轻量游戏鼠标","version":"有线／接收器 · 轻量","price_minor":19900,"connections":["wired","receiver"],"weight_g":59,"layout":"中等尺寸","numpad":null,"quiet":false,"portable":true,"gaming":true,"color":"ink","note":"更轻；不支持蓝牙，按键并非轻声。"},
+    {"id":"demo-m4","category":"mouse","name":"M4 便携鼠标","version":"蓝牙 · 小尺寸","price_minor":12900,"connections":["bluetooth"],"weight_g":65,"layout":"小尺寸","numpad":null,"quiet":true,"portable":true,"gaming":false,"color":"stone","note":"适合随身携带；只有蓝牙连接。"},
+    {"id":"demo-m5","category":"mouse","name":"M5 基础鼠标","version":"有线 · 标准按键","price_minor":4900,"connections":["wired"],"weight_g":89,"layout":"中等尺寸","numpad":null,"quiet":null,"portable":false,"gaming":false,"color":"stone","note":"预算友好；没有噪声资料。"},
+    {"id":"demo-m6","category":"mouse","name":"M6 多功能办公鼠标","version":"三模 · 多功能滚轮","price_minor":29900,"connections":["wired","bluetooth","receiver"],"weight_g":118,"layout":"较大尺寸","numpad":null,"quiet":true,"portable":false,"gaming":false,"color":"ink","note":"功能更多；体积与重量更高。"}
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "started_at": "2026-10-02T15:09:29.827924+00:00",
+  "finished_at": "2026-10-02T15:09:36.628650+00:00",
+  "adapter_version": "logitech-cn-v0.1",
+  "robots_url": "https://www.logitech.com/robots.txt",
+  "robots_sha256": "e7d651b7e63f3cd48c201889b9cd01b4a734df44caf822f963e2dedcf6d13eaa",
+  "pause_seconds": 1.5,
+  "attempted": 3,
+  "collected": 2,
+  "usable_prices": 0,
+  "attempts": [
+    {
+      "url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+      "final_url": "https://www.logitech.com/zh-cn/shop/p/pebble-keys-2.920-011731",
+      "http_status": 200,
+      "status": "collected",
+      "sku": "920-011731"
+    },
+    {
+      "url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+      "final_url": "https://www.logitech.com/zh-cn/shop/p/m240-silent-bluetooth-mouse.910-007124",
+      "http_status": 200,
+      "status": "collected",
+      "sku": "910-007124"
+    },
+    {
+      "url": "https://www.logitech.com/zh-cn/shop/p/pebble-2-m350s-wireless-mouse",
+      "status": "http_error",
+      "http_status": 404
+    }
+  ],
+  "database_modified": false,
+  "recommendation_mode_changed": false
+}
